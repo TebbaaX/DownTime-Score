@@ -27,7 +27,9 @@ sites:
   - name: TGR Portal
     url: https://www.tgr.gov.ma/wps/portal
   - name: ANCFCC
-    url: https://www.ancfcc.gov.ma/
+    url: https://www.ancfcc.gov.ma/Publications
+  - name: Auto-E Portal
+    url: https://rn.ae.gov.ma/login
 
 workflowSchedule:
   graphs: "*/10 * * * *"
