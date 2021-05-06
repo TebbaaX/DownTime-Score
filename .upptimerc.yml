@@ -14,7 +14,7 @@ sites:
   - name: Massar Login
     url: https://massarservice.men.gov.ma/moutamadris/Account
     favicon: https://massar.men.gov.ma/favicon.ico
- - name: Tax Portal
+  - name: Tax Portal
     url: https://portail.tax.gov.ma
 
 workflowSchedule:
