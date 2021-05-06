@@ -5,8 +5,8 @@ sites:
    - name: Covid Portal
     url: http://covid19.interieur.gov.ma/
    - name: Health Portal
-    url: https://www.sante.gov.ma/Pages/Accueil.aspx
-  - name: CNSS
+     url: https://www.sante.gov.ma/Pages/Accueil.aspx
+   - name: CNSS
     url: https://www.cnss.ma
   - name: Data
     url: http://data.gov.ma
@@ -17,7 +17,6 @@ sites:
     favicon: https://massar.men.gov.ma/favicon.ico
   - name: Massar Login
     url: https://massarservice.men.gov.ma/moutamadris/Account
-    favicon: https://massar.men.gov.ma/favicon.ico
   - name: Tax Portal
     url: https://portail.tax.gov.ma
 
