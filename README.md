@@ -13,4 +13,4 @@
 ## 📄 License
 
 - Code: [MIT](./LICENSE) © [TebbaaX](https://www.TebbaaX.com)
-- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+- Data in the `./history` directory are under [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
