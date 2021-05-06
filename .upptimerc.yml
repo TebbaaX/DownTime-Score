@@ -4,10 +4,6 @@ repo: DownTime-Score
 sites:
   - name: CNSS
     url: https://www.cnss.ma
-  - name: TebbaaX
-    url: https://www.TebbaaX.com
-  - name: Google
-    url: https://www.google.com
 
 status-website:
   baseUrl: /DownTime-Score
