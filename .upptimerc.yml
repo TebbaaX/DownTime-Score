@@ -2,23 +2,23 @@ owner: TebbaaX
 repo: DownTime-Score
 
 sites:
-   - name: Covid Portal
-      url: http://covid19.interieur.gov.ma/
-   - name: Health Portal
-      url: https://www.sante.gov.ma/Pages/Accueil.aspx
-   - name: CNSS
+  - name: Covid Portal
+     url: http://covid19.interieur.gov.ma/
+  - name: Health Portal
+     url: https://www.sante.gov.ma/Pages/Accueil.aspx
+  - name: CNSS
      url: https://www.cnss.ma
   - name: Data
-     url: http://data.gov.ma
+    url: http://data.gov.ma
   - name: Douanes
-     url: http://www.douane.gov.ma
+    url: http://www.douane.gov.ma
   - name: Massar Website
-     url: https://massar.men.gov.ma
-     favicon: https://massar.men.gov.ma/favicon.ico
+    url: https://massar.men.gov.ma
+    favicon: https://massar.men.gov.ma/favicon.ico
   - name: Massar Login
-     url: https://massarservice.men.gov.ma/moutamadris/Account
+    url: https://massarservice.men.gov.ma/moutamadris/Account
   - name: Tax Portal
-     url: https://portail.tax.gov.ma
+    url: https://portail.tax.gov.ma
 
 workflowSchedule:
   graphs: "*/10 * * * *"
