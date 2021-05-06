@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.cnss.ma",
     "slug": "cnss",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "95.36%",
+    "uptimeDay": "95.36%",
+    "uptimeWeek": "95.36%",
+    "uptimeMonth": "95.36%",
+    "uptimeYear": "95.36%",
     "time": 3473,
     "timeDay": 3473,
     "timeWeek": 3473,
     "timeMonth": 3473,
     "timeYear": 3473,
     "dailyMinutesDown": {
-      "2021-05-06": 0
+      "2021-05-06": 8
     }
   }
 ]
