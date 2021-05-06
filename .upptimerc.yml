@@ -24,6 +24,10 @@ sites:
     url: https://portail.tax.gov.ma
   - name: ADA
     url: https://www.ada.gov.ma/web
+  - name: TGR Portal
+    url: https://www.tgr.gov.ma/wps/portal
+  - name: ANCFCC
+    url: https://www.ancfcc.gov.ma/
 
 workflowSchedule:
   graphs: "*/10 * * * *"
