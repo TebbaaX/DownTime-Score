@@ -20,7 +20,7 @@ sites:
   - name: Tax Portal
     url: https://portail.tax.gov.ma
   - name: ADA
-    url: https://www.ada.gov.ma
+    url: https://www.ada.gov.ma/web
 
 workflowSchedule:
   graphs: "*/10 * * * *"
