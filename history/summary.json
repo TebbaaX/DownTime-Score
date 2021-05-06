@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/covid19.interieur.gov.ma",
     "slug": "covid-portal",
     "status": "down",
-    "uptime": "13.61%",
-    "uptimeDay": "13.61%",
-    "uptimeWeek": "13.61%",
-    "uptimeMonth": "13.61%",
-    "uptimeYear": "13.61%",
+    "uptime": "6.05%",
+    "uptimeDay": "6.05%",
+    "uptimeWeek": "6.05%",
+    "uptimeMonth": "6.05%",
+    "uptimeYear": "6.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-06": 5
+      "2021-05-06": 12
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2485,
-    "timeDay": 2485,
-    "timeWeek": 2485,
-    "timeMonth": 2485,
-    "timeYear": 2485,
+    "time": 2286,
+    "timeDay": 2286,
+    "timeWeek": 2286,
+    "timeMonth": 2286,
+    "timeYear": 2286,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2329,
-    "timeDay": 2329,
-    "timeWeek": 2329,
-    "timeMonth": 2329,
-    "timeYear": 2329,
+    "time": 2307,
+    "timeDay": 2307,
+    "timeWeek": 2307,
+    "timeMonth": 2307,
+    "timeYear": 2307,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1538,
-    "timeDay": 1538,
-    "timeWeek": 1538,
-    "timeMonth": 1538,
-    "timeYear": 1538,
+    "time": 1527,
+    "timeDay": 1527,
+    "timeWeek": 1527,
+    "timeMonth": 1527,
+    "timeYear": 1527,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1343,
-    "timeDay": 1343,
-    "timeWeek": 1343,
-    "timeMonth": 1343,
-    "timeYear": 1343,
+    "time": 1338,
+    "timeDay": 1338,
+    "timeWeek": 1338,
+    "timeMonth": 1338,
+    "timeYear": 1338,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1389,
-    "timeDay": 1389,
-    "timeWeek": 1389,
-    "timeMonth": 1389,
-    "timeYear": 1389,
+    "time": 1369,
+    "timeDay": 1369,
+    "timeWeek": 1369,
+    "timeMonth": 1369,
+    "timeYear": 1369,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 970,
-    "timeDay": 970,
-    "timeWeek": 970,
-    "timeMonth": 970,
-    "timeYear": 970,
+    "time": 931,
+    "timeDay": 931,
+    "timeWeek": 931,
+    "timeMonth": 931,
+    "timeYear": 931,
     "dailyMinutesDown": {}
   },
   {
@@ -138,11 +138,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3085,
-    "timeDay": 3085,
-    "timeWeek": 3085,
-    "timeMonth": 3085,
-    "timeYear": 3085,
+    "time": 2882,
+    "timeDay": 2882,
+    "timeWeek": 2882,
+    "timeMonth": 2882,
+    "timeYear": 2882,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Ngrok",
+    "url": "https://ee44606c0060.ngrok.io",
+    "icon": "https://favicons.githubusercontent.com/ee44606c0060.ngrok.io",
+    "slug": "ngrok",
+    "status": "down",
+    "uptime": "60.89%",
+    "uptimeDay": "60.89%",
+    "uptimeWeek": "60.89%",
+    "uptimeMonth": "60.89%",
+    "uptimeYear": "60.89%",
+    "time": 2849,
+    "timeDay": 2849,
+    "timeWeek": 2849,
+    "timeMonth": 2849,
+    "timeYear": 2849,
+    "dailyMinutesDown": {
+      "2021-05-06": 0
+    }
   }
 ]
