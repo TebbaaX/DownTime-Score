@@ -8,7 +8,8 @@ sites:
     url: http://data.gov.ma
   - name: Douanes
     url: http://www.douane.gov.ma
-
+ - name: Massar
+    url: https://massar.men.gov.ma
 
 status-website:
   baseUrl: /DownTime-Score
