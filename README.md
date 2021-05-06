@@ -14,10 +14,7 @@
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://TebbaaX.github.io/DownTime-Score)
-
 ## 📄 License
 
-- Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [TebbaaX](https://TebbaaX.github.io/DownTime-Score)
+- Code: [MIT](./LICENSE) © [TebbaaX](https://www.TebbaaX.com)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
