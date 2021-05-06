@@ -3,7 +3,7 @@ repo: DownTime-Score
 
 sites:
   - name: Covid Portal
-     url: http://covid19.interieur.gov.ma/
+     url: http://covid19.interieur.gov.ma
   - name: Health Portal
      url: https://www.sante.gov.ma/Pages/Accueil.aspx
   - name: CNSS
