@@ -19,8 +19,8 @@ sites:
     url: https://massarservice.men.gov.ma/moutamadris/Account
   - name: Tax Portal
     url: https://portail.tax.gov.ma
-  - name: Ngrok 
-    url: https://ee44606c0060.ngrok.io
+  - name: ADA
+    url: https://www.ada.gov.ma
 
 workflowSchedule:
   graphs: "*/10 * * * *"
