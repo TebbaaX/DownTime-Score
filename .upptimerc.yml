@@ -6,7 +6,8 @@ sites:
     url: https://www.cnss.ma
   - name: Data
     url: http://data.gov.ma
-
+  - name: Douanes
+    url: http://www.douane.gov.ma
 
 
 status-website:
