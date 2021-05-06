@@ -16,17 +16,6 @@ sites:
     favicon: https://massar.men.gov.ma/favicon.ico
 
 
-
-status-website:
-  baseUrl: /DownTime-Score
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-      
 workflowSchedule:
   graphs: "*/10 * * * *"
   responseTime: "*/10 * * * *"
