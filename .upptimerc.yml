@@ -10,6 +10,10 @@ sites:
     url: http://www.douane.gov.ma
   - name: Massar
     url: https://massar.men.gov.ma
+  - name: Massar Services - Login 
+    url: https://massarservice.men.gov.ma/moutamadris/Account
+
+
 
 status-website:
   baseUrl: /DownTime-Score
