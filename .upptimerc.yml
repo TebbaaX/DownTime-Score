@@ -4,6 +4,8 @@ repo: DownTime-Score
 sites:
   - name: CNSS
     url: https://www.cnss.ma
+  - name: Data
+   url: http://data.gov.ma
 
 status-website:
   baseUrl: /DownTime-Score
