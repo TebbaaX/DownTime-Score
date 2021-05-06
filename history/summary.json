@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/covid19.interieur.gov.ma",
     "slug": "covid-portal",
     "status": "down",
-    "uptime": "66.73%",
-    "uptimeDay": "66.73%",
-    "uptimeWeek": "66.73%",
-    "uptimeMonth": "66.73%",
-    "uptimeYear": "66.73%",
+    "uptime": "59.87%",
+    "uptimeDay": "59.87%",
+    "uptimeWeek": "59.87%",
+    "uptimeMonth": "59.87%",
+    "uptimeYear": "59.87%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-06": 0
+      "2021-05-06": 1
     }
   },
   {
