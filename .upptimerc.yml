@@ -2,6 +2,9 @@ owner: TebbaaX
 repo: DownTime-Score
 
 sites:
+ 
+  - name: DGSSI
+    url: https://www.dgssi.gov.ma/
   - name: Covid Portal
     url: http://covid19.interieur.gov.ma/Operation_ATTADAMON.aspx
   - name: Health Portal
