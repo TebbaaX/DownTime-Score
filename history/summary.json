@@ -203,18 +203,18 @@
     "icon": "https://favicons.githubusercontent.com/www.ancfcc.gov.ma",
     "slug": "ancfcc",
     "status": "down",
-    "uptime": "7.51%",
-    "uptimeDay": "7.51%",
-    "uptimeWeek": "7.51%",
-    "uptimeMonth": "7.51%",
-    "uptimeYear": "7.51%",
+    "uptime": "1.13%",
+    "uptimeDay": "1.13%",
+    "uptimeWeek": "1.13%",
+    "uptimeMonth": "1.13%",
+    "uptimeYear": "1.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-06": 0
+      "2021-05-06": 3
     }
   }
 ]
