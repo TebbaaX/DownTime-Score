@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2606,
-    "timeDay": 2606,
-    "timeWeek": 2606,
-    "timeMonth": 2606,
-    "timeYear": 2606,
+    "time": 2588,
+    "timeDay": 2588,
+    "timeWeek": 2588,
+    "timeMonth": 2588,
+    "timeYear": 2588,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1645,
-    "timeDay": 1645,
-    "timeWeek": 1645,
-    "timeMonth": 1645,
-    "timeYear": 1645,
+    "time": 1668,
+    "timeDay": 1668,
+    "timeWeek": 1668,
+    "timeMonth": 1668,
+    "timeYear": 1668,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "X",
-    "url": "http://xxx.xyz/",
-    "icon": "https://favicons.githubusercontent.com/xxx.xyz",
-    "slug": "x",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-05-06": 8
-    }
   }
 ]
