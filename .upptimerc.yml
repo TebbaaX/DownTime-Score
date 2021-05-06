@@ -10,6 +10,7 @@ sites:
     url: http://www.douane.gov.ma
   - name: Massar Website
     url: https://massar.men.gov.ma
+    favicon: https://massar.men.gov.ma/favicon.ico
   - name: Massar Login
     url: https://massarservice.men.gov.ma/moutamadris/Account
     favicon: https://massar.men.gov.ma/favicon.ico
