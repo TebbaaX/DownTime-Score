@@ -8,10 +8,11 @@ sites:
     url: http://data.gov.ma
   - name: Douanes
     url: http://www.douane.gov.ma
-  - name: Massar
+  - name: Massar Website
     url: https://massar.men.gov.ma
-  - name: Massar Services - Login 
+  - name: Massar Login
     url: https://massarservice.men.gov.ma/moutamadris/Account
+    favicon: https://massar.men.gov.ma/favicon.ico
 
 
 
