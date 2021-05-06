@@ -6,8 +6,7 @@ sites:
     url: https://www.cnss.ma
   - name: Data
     url: http://data.gov.ma
-  - name: X
-    url: http://xxx.xyz/
+
 
 
 status-website:
