@@ -1,22 +1,22 @@
 [
   {
     "name": "Covid Portal",
-    "url": "http://covid19.interieur.gov.ma",
+    "url": "http://covid19.interieur.gov.ma/Operation_ATTADAMON.aspx",
     "icon": "https://favicons.githubusercontent.com/covid19.interieur.gov.ma",
     "slug": "covid-portal",
     "status": "down",
-    "uptime": "59.87%",
-    "uptimeDay": "59.87%",
-    "uptimeWeek": "59.87%",
-    "uptimeMonth": "59.87%",
-    "uptimeYear": "59.87%",
+    "uptime": "13.61%",
+    "uptimeDay": "13.61%",
+    "uptimeWeek": "13.61%",
+    "uptimeMonth": "13.61%",
+    "uptimeYear": "13.61%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-06": 1
+      "2021-05-06": 5
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2190,
-    "timeDay": 2190,
-    "timeWeek": 2190,
-    "timeMonth": 2190,
-    "timeYear": 2190,
+    "time": 2485,
+    "timeDay": 2485,
+    "timeWeek": 2485,
+    "timeMonth": 2485,
+    "timeYear": 2485,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2262,
-    "timeDay": 2262,
-    "timeWeek": 2262,
-    "timeMonth": 2262,
-    "timeYear": 2262,
+    "time": 2329,
+    "timeDay": 2329,
+    "timeWeek": 2329,
+    "timeMonth": 2329,
+    "timeYear": 2329,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1518,
-    "timeDay": 1518,
-    "timeWeek": 1518,
-    "timeMonth": 1518,
-    "timeYear": 1518,
+    "time": 1538,
+    "timeDay": 1538,
+    "timeWeek": 1538,
+    "timeMonth": 1538,
+    "timeYear": 1538,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1315,
-    "timeDay": 1315,
-    "timeWeek": 1315,
-    "timeMonth": 1315,
-    "timeYear": 1315,
+    "time": 1343,
+    "timeDay": 1343,
+    "timeWeek": 1343,
+    "timeMonth": 1343,
+    "timeYear": 1343,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1330,
-    "timeDay": 1330,
-    "timeWeek": 1330,
-    "timeMonth": 1330,
-    "timeYear": 1330,
+    "time": 1389,
+    "timeDay": 1389,
+    "timeWeek": 1389,
+    "timeMonth": 1389,
+    "timeYear": 1389,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 929,
-    "timeDay": 929,
-    "timeWeek": 929,
-    "timeMonth": 929,
-    "timeYear": 929,
+    "time": 970,
+    "timeDay": 970,
+    "timeWeek": 970,
+    "timeMonth": 970,
+    "timeYear": 970,
     "dailyMinutesDown": {}
   },
   {
@@ -138,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2983,
-    "timeDay": 2983,
-    "timeWeek": 2983,
-    "timeMonth": 2983,
-    "timeYear": 2983,
+    "time": 3085,
+    "timeDay": 3085,
+    "timeWeek": 3085,
+    "timeMonth": 3085,
+    "timeYear": 3085,
     "dailyMinutesDown": {}
   }
 ]
