@@ -185,11 +185,11 @@
     "icon": "https://favicons.githubusercontent.com/www.tgr.gov.ma",
     "slug": "tgr-portal",
     "status": "up",
-    "uptime": "87.58%",
-    "uptimeDay": "87.58%",
-    "uptimeWeek": "87.58%",
-    "uptimeMonth": "87.58%",
-    "uptimeYear": "87.58%",
+    "uptime": "88.39%",
+    "uptimeDay": "88.39%",
+    "uptimeWeek": "88.39%",
+    "uptimeMonth": "88.39%",
+    "uptimeYear": "88.39%",
     "time": 1125,
     "timeDay": 1125,
     "timeWeek": 1125,
@@ -216,7 +216,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-07": 276,
+      "2021-05-07": 297,
       "2021-05-06": 11
     }
   },
@@ -237,7 +237,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-07": 276,
+      "2021-05-07": 297,
       "2021-05-06": 5
     }
   }
