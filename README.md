@@ -1,3 +1,7 @@
+**DownTime-Score**
+![alt text](https://raw.githubusercontent.com/adnane-X-tebbaa/imgs/master/dtss.png)
+
+
 # [📈 Live Status](https://TebbaaX.github.io/DownTime-Score): <!--live status--> **🟧 Partial outage**
 
 <!--start: status pages-->
