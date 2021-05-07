@@ -184,18 +184,20 @@
     "url": "https://www.tgr.gov.ma/wps/portal",
     "icon": "https://favicons.githubusercontent.com/www.tgr.gov.ma",
     "slug": "tgr-portal",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1185,
-    "timeDay": 1185,
-    "timeWeek": 1185,
-    "timeMonth": 1185,
-    "timeYear": 1185,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 1112,
+    "timeDay": 1112,
+    "timeWeek": 1112,
+    "timeMonth": 1112,
+    "timeYear": 1112,
+    "dailyMinutesDown": {
+      "2021-05-07": 0
+    }
   },
   {
     "name": "ANCFCC",
@@ -203,18 +205,18 @@
     "icon": "https://favicons.githubusercontent.com/www.ancfcc.gov.ma",
     "slug": "ancfcc",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-07": 238,
+      "2021-05-07": 241,
       "2021-05-06": 11
     }
   },
@@ -235,7 +237,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-07": 238,
+      "2021-05-07": 241,
       "2021-05-06": 5
     }
   }
