@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/covid19.interieur.gov.ma",
     "slug": "covid-portal",
     "status": "down",
-    "uptime": "48.11%",
-    "uptimeDay": "48.11%",
-    "uptimeWeek": "48.11%",
-    "uptimeMonth": "48.11%",
-    "uptimeYear": "48.11%",
+    "uptime": "47.75%",
+    "uptimeDay": "47.71%",
+    "uptimeWeek": "47.75%",
+    "uptimeMonth": "47.75%",
+    "uptimeYear": "47.75%",
     "time": 1635,
     "timeDay": 1635,
     "timeWeek": 1635,
     "timeMonth": 1635,
     "timeYear": 1635,
     "dailyMinutesDown": {
-      "2021-05-07": 742
+      "2021-05-07": 752
     }
   },
   {
@@ -49,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1974,
-    "timeDay": 1974,
+    "timeDay": 1970,
     "timeWeek": 1974,
     "timeMonth": 1974,
     "timeYear": 1974,
@@ -67,7 +67,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1972,
-    "timeDay": 1758,
+    "timeDay": 1731,
     "timeWeek": 1972,
     "timeMonth": 1972,
     "timeYear": 1972,
@@ -85,7 +85,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1606,
-    "timeDay": 1657,
+    "timeDay": 1652,
     "timeWeek": 1606,
     "timeMonth": 1606,
     "timeYear": 1606,
@@ -103,7 +103,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1181,
-    "timeDay": 1154,
+    "timeDay": 1143,
     "timeWeek": 1181,
     "timeMonth": 1181,
     "timeYear": 1181,
@@ -121,7 +121,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1698,
-    "timeDay": 1768,
+    "timeDay": 1766,
     "timeWeek": 1698,
     "timeMonth": 1698,
     "timeYear": 1698,
@@ -133,19 +133,17 @@
     "icon": "https://favicons.githubusercontent.com/massarservice.men.gov.ma",
     "slug": "massar-login",
     "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.37%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1491,
-    "timeDay": 1578,
+    "timeDay": 1593,
     "timeWeek": 1491,
     "timeMonth": 1491,
     "timeYear": 1491,
-    "dailyMinutesDown": {
-      "2021-05-07": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tax Portal",
@@ -159,7 +157,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2576,
-    "timeDay": 2564,
+    "timeDay": 2553,
     "timeWeek": 2576,
     "timeMonth": 2576,
     "timeYear": 2576,
@@ -189,11 +187,11 @@
     "icon": "https://favicons.githubusercontent.com/www.tgr.gov.ma",
     "slug": "tgr-portal",
     "status": "up",
-    "uptime": "97.43%",
-    "uptimeDay": "97.43%",
-    "uptimeWeek": "97.43%",
-    "uptimeMonth": "97.43%",
-    "uptimeYear": "97.43%",
+    "uptime": "97.45%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "97.45%",
+    "uptimeMonth": "97.45%",
+    "uptimeYear": "97.45%",
     "time": 1239,
     "timeDay": 1239,
     "timeWeek": 1239,
@@ -220,7 +218,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-07": 1380,
+      "2021-05-07": 1391,
       "2021-05-06": 11
     }
   },
@@ -241,7 +239,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-07": 1380,
+      "2021-05-07": 1391,
       "2021-05-06": 5
     }
   }
