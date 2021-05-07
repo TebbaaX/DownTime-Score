@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/covid19.interieur.gov.ma",
     "slug": "covid-portal",
     "status": "down",
-    "uptime": "57.32%",
-    "uptimeDay": "57.32%",
-    "uptimeWeek": "57.32%",
-    "uptimeMonth": "57.32%",
-    "uptimeYear": "57.32%",
+    "uptime": "57.39%",
+    "uptimeDay": "57.39%",
+    "uptimeWeek": "57.39%",
+    "uptimeMonth": "57.39%",
+    "uptimeYear": "57.39%",
     "time": 1820,
     "timeDay": 1820,
     "timeWeek": 1820,
     "timeMonth": 1820,
     "timeYear": 1820,
     "dailyMinutesDown": {
-      "2021-05-07": 274
+      "2021-05-07": 280
     }
   },
   {
@@ -187,11 +187,11 @@
     "icon": "https://favicons.githubusercontent.com/www.tgr.gov.ma",
     "slug": "tgr-portal",
     "status": "up",
-    "uptime": "94.07%",
-    "uptimeDay": "94.07%",
-    "uptimeWeek": "94.07%",
-    "uptimeMonth": "94.07%",
-    "uptimeYear": "94.07%",
+    "uptime": "94.23%",
+    "uptimeDay": "94.23%",
+    "uptimeWeek": "94.23%",
+    "uptimeMonth": "94.23%",
+    "uptimeYear": "94.23%",
     "time": 1329,
     "timeDay": 1329,
     "timeWeek": 1329,
@@ -218,7 +218,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-07": 592,
+      "2021-05-07": 608,
       "2021-05-06": 11
     }
   },
@@ -239,7 +239,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-07": 592,
+      "2021-05-07": 608,
       "2021-05-06": 5
     }
   }
