@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/covid19.interieur.gov.ma",
     "slug": "covid-portal",
     "status": "down",
-    "uptime": "48.25%",
-    "uptimeDay": "48.25%",
-    "uptimeWeek": "48.25%",
-    "uptimeMonth": "48.25%",
-    "uptimeYear": "48.25%",
+    "uptime": "48.11%",
+    "uptimeDay": "48.11%",
+    "uptimeWeek": "48.11%",
+    "uptimeMonth": "48.11%",
+    "uptimeYear": "48.11%",
     "time": 1635,
     "timeDay": 1635,
     "timeWeek": 1635,
     "timeMonth": 1635,
     "timeYear": 1635,
     "dailyMinutesDown": {
-      "2021-05-07": 737
+      "2021-05-07": 742
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "https://massarservice.men.gov.ma/moutamadris/Account",
     "icon": "https://favicons.githubusercontent.com/massarservice.men.gov.ma",
     "slug": "massar-login",
-    "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
-    "time": 1490,
-    "timeDay": 1579,
-    "timeWeek": 1490,
-    "timeMonth": 1490,
-    "timeYear": 1490,
+    "status": "up",
+    "uptime": "99.37%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
+    "time": 1491,
+    "timeDay": 1578,
+    "timeWeek": 1491,
+    "timeMonth": 1491,
+    "timeYear": 1491,
     "dailyMinutesDown": {
-      "2021-05-07": 6
+      "2021-05-07": 9
     }
   },
   {
@@ -220,7 +220,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-07": 1376,
+      "2021-05-07": 1380,
       "2021-05-06": 11
     }
   },
@@ -241,7 +241,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-07": 1376,
+      "2021-05-07": 1380,
       "2021-05-06": 5
     }
   }
