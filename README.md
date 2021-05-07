@@ -4,9 +4,9 @@
 [![Github All Releases](https://img.shields.io/badge/%20License-MIT-green)]()
 [![Github All Releases](https://img.shields.io/badge/%20License-ODC-green)]()
 
-DownTime-Score is a Small project aimed to Monitor the performance and the availabillity of a variety of the Vital and Critical Moroccan Web Portals 
-That provides necessary WebBased digital services in order to Record incidents including Services Outage,Network Disturbance and Possible CyberAttacks 
-powered with upptime and uptime robot,
+**DownTime-Score** is a Small project aimed to Monitor the performance and the availabillity of a variety of the Vital and Critical Moroccan Web Portals 
+That provides necessary WebBased digital services in order to Record incidents including **Services Outage**,**Network Disturbance** and **Possible CyberAttacks** 
+in-powered with upptime and uptime robot,
 This small project is open source and you can find-out more here
 
 
