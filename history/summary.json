@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1576,
-    "timeDay": 1576,
-    "timeWeek": 1576,
-    "timeMonth": 1576,
-    "timeYear": 1576,
+    "time": 1574,
+    "timeDay": 1574,
+    "timeWeek": 1574,
+    "timeMonth": 1574,
+    "timeYear": 1574,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/covid19.interieur.gov.ma",
     "slug": "covid-portal",
     "status": "down",
-    "uptime": "83.87%",
-    "uptimeDay": "83.87%",
-    "uptimeWeek": "83.87%",
-    "uptimeMonth": "83.87%",
-    "uptimeYear": "83.87%",
+    "uptime": "77.99%",
+    "uptimeDay": "77.99%",
+    "uptimeWeek": "77.99%",
+    "uptimeMonth": "77.99%",
+    "uptimeYear": "77.99%",
     "time": 3074,
     "timeDay": 3074,
     "timeWeek": 3074,
     "timeMonth": 3074,
     "timeYear": 3074,
     "dailyMinutesDown": {
-      "2021-05-07": 68
+      "2021-05-07": 99
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1991,
-    "timeDay": 1991,
-    "timeWeek": 1991,
-    "timeMonth": 1991,
-    "timeYear": 1991,
+    "time": 1975,
+    "timeDay": 1975,
+    "timeWeek": 1975,
+    "timeMonth": 1975,
+    "timeYear": 1975,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2151,
-    "timeDay": 2151,
-    "timeWeek": 2151,
-    "timeMonth": 2151,
-    "timeYear": 2151,
+    "time": 2136,
+    "timeDay": 2136,
+    "timeWeek": 2136,
+    "timeMonth": 2136,
+    "timeYear": 2136,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1661,
-    "timeDay": 1661,
-    "timeWeek": 1661,
-    "timeMonth": 1661,
-    "timeYear": 1661,
+    "time": 1655,
+    "timeDay": 1655,
+    "timeWeek": 1655,
+    "timeMonth": 1655,
+    "timeYear": 1655,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1231,
-    "timeDay": 1231,
-    "timeWeek": 1231,
-    "timeMonth": 1231,
-    "timeYear": 1231,
+    "time": 1230,
+    "timeDay": 1230,
+    "timeWeek": 1230,
+    "timeMonth": 1230,
+    "timeYear": 1230,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1594,
-    "timeDay": 1594,
-    "timeWeek": 1594,
-    "timeMonth": 1594,
-    "timeYear": 1594,
+    "time": 1576,
+    "timeDay": 1576,
+    "timeWeek": 1576,
+    "timeMonth": 1576,
+    "timeYear": 1576,
     "dailyMinutesDown": {}
   },
   {
@@ -138,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 779,
-    "timeDay": 779,
-    "timeWeek": 779,
-    "timeMonth": 779,
-    "timeYear": 779,
+    "time": 782,
+    "timeDay": 782,
+    "timeWeek": 782,
+    "timeMonth": 782,
+    "timeYear": 782,
     "dailyMinutesDown": {}
   },
   {
@@ -156,11 +156,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2647,
-    "timeDay": 2647,
-    "timeWeek": 2647,
-    "timeMonth": 2647,
-    "timeYear": 2647,
+    "time": 2628,
+    "timeDay": 2628,
+    "timeWeek": 2628,
+    "timeMonth": 2628,
+    "timeYear": 2628,
     "dailyMinutesDown": {}
   },
   {
@@ -174,11 +174,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 171,
-    "timeWeek": 171,
-    "timeMonth": 171,
-    "timeYear": 171,
+    "time": 170,
+    "timeDay": 170,
+    "timeWeek": 170,
+    "timeMonth": 170,
+    "timeYear": 170,
     "dailyMinutesDown": {}
   },
   {
@@ -187,16 +187,16 @@
     "icon": "https://favicons.githubusercontent.com/www.tgr.gov.ma",
     "slug": "tgr-portal",
     "status": "up",
-    "uptime": "90.60%",
-    "uptimeDay": "90.60%",
-    "uptimeWeek": "90.60%",
-    "uptimeMonth": "90.60%",
-    "uptimeYear": "90.60%",
-    "time": 1098,
-    "timeDay": 1098,
-    "timeWeek": 1098,
-    "timeMonth": 1098,
-    "timeYear": 1098,
+    "uptime": "91.32%",
+    "uptimeDay": "91.32%",
+    "uptimeWeek": "91.32%",
+    "uptimeMonth": "91.32%",
+    "uptimeYear": "91.32%",
+    "time": 1080,
+    "timeDay": 1080,
+    "timeWeek": 1080,
+    "timeMonth": 1080,
+    "timeYear": 1080,
     "dailyMinutesDown": {
       "2021-05-07": 36
     }
@@ -218,7 +218,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-07": 369,
+      "2021-05-07": 400,
       "2021-05-06": 11
     }
   },
@@ -239,7 +239,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-07": 369,
+      "2021-05-07": 400,
       "2021-05-06": 5
     }
   }
