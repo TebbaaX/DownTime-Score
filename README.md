@@ -9,6 +9,23 @@ That provides necessary WebBased digital services in order to Record incidents i
 in-powered with upptime and uptime robot,
 This small project is open source and you can find-out more here
 
+UptimeRobot public APIs for th current Monitored WebServices : 
+
+```
+https://www.dgssi.gov.ma == m788066273-1d3a0f4154118b9473496d36
+http://covid19.interieur.gov.ma == m788066276-303228ba339d9023c6ed91a9
+https://www.sante.gov.ma == m788066279-a48fa6e3341aaf5100c4f902
+https://www.cnss.ma == m788066283-5b23c27a917a289728616ef0
+http://data.gov.ma == m788066285-a42f9bdaf85ac2b18f630ed3
+http://www.douane.gov.ma == m788066285-a42f9bdaf85ac2b18f630ed3
+https://massar.men.gov.ma == m788066286-48244cc6ab91c44f6477a920
+https://massarservice.men.gov.ma == m788066288-3a6790129d70b0b3bc52fc7f
+https://portail.tax.gov.ma == m788066290-fcbec34345ad4b8ac656fa99
+https://www.tgr.gov.ma == m788066294-069aa28682ddb4dcd60720ff
+https://www.ancfcc.gov.ma == m788066295-7ad0ab68fae8f6ade078566a
+https://rn.ae.gov.ma == m788066296-c8790cf6321b6a1ac1014cce
+```
+
 # [📈 Live Status](https://TebbaaX.github.io/DownTime-Score): <!--live status--> **🟧 Partial outage**
 
 <!--start: status pages-->
