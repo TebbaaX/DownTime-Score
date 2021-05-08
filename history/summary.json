@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1828,
-    "timeDay": 1875,
-    "timeWeek": 1828,
-    "timeMonth": 1828,
-    "timeYear": 1828,
+    "time": 1824,
+    "timeDay": 1869,
+    "timeWeek": 1824,
+    "timeMonth": 1824,
+    "timeYear": 1824,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/covid19.interieur.gov.ma",
     "slug": "covid-portal",
     "status": "down",
-    "uptime": "36.35%",
-    "uptimeDay": "23.99%",
-    "uptimeWeek": "36.35%",
-    "uptimeMonth": "36.35%",
-    "uptimeYear": "36.35%",
+    "uptime": "36.23%",
+    "uptimeDay": "23.82%",
+    "uptimeWeek": "36.23%",
+    "uptimeMonth": "36.23%",
+    "uptimeYear": "36.23%",
     "time": 3413,
     "timeDay": 5006,
     "timeWeek": 3413,
     "timeMonth": 3413,
     "timeYear": 3413,
     "dailyMinutesDown": {
-      "2021-05-08": 443,
+      "2021-05-08": 449,
       "2021-05-07": 802
     }
   },
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2002,
-    "timeDay": 1984,
-    "timeWeek": 2002,
-    "timeMonth": 2002,
-    "timeYear": 2002,
+    "time": 2001,
+    "timeDay": 1982,
+    "timeWeek": 2001,
+    "timeMonth": 2001,
+    "timeYear": 2001,
     "dailyMinutesDown": {}
   },
   {
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1915,
-    "timeDay": 1643,
-    "timeWeek": 1915,
-    "timeMonth": 1915,
-    "timeYear": 1915,
+    "time": 1910,
+    "timeDay": 1636,
+    "timeWeek": 1910,
+    "timeMonth": 1910,
+    "timeYear": 1910,
     "dailyMinutesDown": {}
   },
   {
@@ -85,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1569,
-    "timeDay": 1455,
-    "timeWeek": 1569,
-    "timeMonth": 1569,
-    "timeYear": 1569,
+    "time": 1565,
+    "timeDay": 1450,
+    "timeWeek": 1565,
+    "timeMonth": 1565,
+    "timeYear": 1565,
     "dailyMinutesDown": {}
   },
   {
@@ -103,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1300,
-    "timeDay": 1340,
-    "timeWeek": 1300,
-    "timeMonth": 1300,
-    "timeYear": 1300,
+    "time": 1298,
+    "timeDay": 1335,
+    "timeWeek": 1298,
+    "timeMonth": 1298,
+    "timeYear": 1298,
     "dailyMinutesDown": {}
   },
   {
@@ -121,11 +121,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1871,
-    "timeDay": 2021,
-    "timeWeek": 1871,
-    "timeMonth": 1871,
-    "timeYear": 1871,
+    "time": 1862,
+    "timeDay": 2004,
+    "timeWeek": 1862,
+    "timeMonth": 1862,
+    "timeYear": 1862,
     "dailyMinutesDown": {}
   },
   {
@@ -139,11 +139,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1568,
-    "timeDay": 1975,
-    "timeWeek": 1568,
-    "timeMonth": 1568,
-    "timeYear": 1568,
+    "time": 1554,
+    "timeDay": 1947,
+    "timeWeek": 1554,
+    "timeMonth": 1554,
+    "timeYear": 1554,
     "dailyMinutesDown": {}
   },
   {
@@ -158,7 +158,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2622,
-    "timeDay": 2600,
+    "timeDay": 2599,
     "timeWeek": 2622,
     "timeMonth": 2622,
     "timeYear": 2622,
@@ -193,11 +193,11 @@
     "uptimeWeek": "98.14%",
     "uptimeMonth": "98.14%",
     "uptimeYear": "98.14%",
-    "time": 1196,
-    "timeDay": 1219,
-    "timeWeek": 1196,
-    "timeMonth": 1196,
-    "timeYear": 1196,
+    "time": 1191,
+    "timeDay": 1214,
+    "timeWeek": 1191,
+    "timeMonth": 1191,
+    "timeYear": 1191,
     "dailyMinutesDown": {
       "2021-05-07": 36
     }
@@ -219,7 +219,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-08": 466,
+      "2021-05-08": 472,
       "2021-05-07": 1440,
       "2021-05-06": 11
     }
@@ -241,7 +241,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-08": 466,
+      "2021-05-08": 472,
       "2021-05-07": 1440,
       "2021-05-06": 5
     }
