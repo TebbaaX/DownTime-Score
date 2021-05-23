@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1886,
-    "timeDay": 1953,
-    "timeWeek": 1941,
+    "timeDay": 1946,
+    "timeWeek": 1942,
     "timeMonth": 1886,
     "timeYear": 1886,
     "dailyMinutesDown": {}
@@ -34,7 +34,7 @@
     "timeMonth": 4204,
     "timeYear": 4204,
     "dailyMinutesDown": {
-      "2021-05-23": 1286,
+      "2021-05-23": 1289,
       "2021-05-22": 1370,
       "2021-05-21": 1382,
       "2021-05-20": 1375,
@@ -66,7 +66,7 @@
     "uptimeYear": "99.75%",
     "time": 2060,
     "timeDay": 2134,
-    "timeWeek": 2088,
+    "timeWeek": 2089,
     "timeMonth": 2060,
     "timeYear": 2060,
     "dailyMinutesDown": {
@@ -87,7 +87,7 @@
     "uptimeYear": "99.58%",
     "time": 1858,
     "timeDay": 1682,
-    "timeWeek": 1906,
+    "timeWeek": 1908,
     "timeMonth": 1858,
     "timeYear": 1858,
     "dailyMinutesDown": {
@@ -108,7 +108,7 @@
     "uptimeYear": "100.00%",
     "time": 1707,
     "timeDay": 1732,
-    "timeWeek": 1715,
+    "timeWeek": 1716,
     "timeMonth": 1707,
     "timeYear": 1707,
     "dailyMinutesDown": {}
@@ -126,7 +126,7 @@
     "uptimeYear": "99.81%",
     "time": 1259,
     "timeDay": 1228,
-    "timeWeek": 1195,
+    "timeWeek": 1196,
     "timeMonth": 1259,
     "timeYear": 1259,
     "dailyMinutesDown": {
@@ -147,7 +147,7 @@
     "uptimeYear": "100.00%",
     "time": 1882,
     "timeDay": 1992,
-    "timeWeek": 1814,
+    "timeWeek": 1818,
     "timeMonth": 1882,
     "timeYear": 1882,
     "dailyMinutesDown": {}
@@ -157,15 +157,15 @@
     "url": "https://massarservice.men.gov.ma/moutamadris/Account",
     "icon": "https://favicons.githubusercontent.com/massarservice.men.gov.ma",
     "slug": "massar-login",
-    "status": "up",
+    "status": "down",
     "uptime": "81.22%",
-    "uptimeDay": "86.79%",
-    "uptimeWeek": "87.03%",
+    "uptimeDay": "86.76%",
+    "uptimeWeek": "87.02%",
     "uptimeMonth": "81.22%",
     "uptimeYear": "81.22%",
     "time": 2095,
     "timeDay": 3638,
-    "timeWeek": 2989,
+    "timeWeek": 2982,
     "timeMonth": 2095,
     "timeYear": 2095,
     "dailyMinutesDown": {
@@ -195,7 +195,7 @@
     "uptimeYear": "100.00%",
     "time": 2657,
     "timeDay": 2181,
-    "timeWeek": 2496,
+    "timeWeek": 2497,
     "timeMonth": 2657,
     "timeYear": 2657,
     "dailyMinutesDown": {}
@@ -231,7 +231,7 @@
     "uptimeYear": "99.38%",
     "time": 1571,
     "timeDay": 1524,
-    "timeWeek": 1737,
+    "timeWeek": 1741,
     "timeMonth": 1571,
     "timeYear": 1571,
     "dailyMinutesDown": {
