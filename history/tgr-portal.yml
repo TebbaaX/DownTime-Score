@@ -1,7 +1,7 @@
 url: https://www.tgr.gov.ma/wps/portal
-status: down
-code: 503
-responseTime: 696
-lastUpdated: 2021-06-12T02:56:26.947Z
+status: up
+code: 200
+responseTime: 779
+lastUpdated: 2021-06-12T02:59:56.122Z
 startTime: Thu May 06 2021 23:48:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
