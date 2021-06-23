@@ -1,7 +1,7 @@
 url: https://massarservice.men.gov.ma/moutamadris/Account
-status: up
-code: 200
-responseTime: 1184
-lastUpdated: 2021-06-23T11:14:18.922Z
+status: down
+code: 503
+responseTime: 480
+lastUpdated: 2021-06-23T11:30:31.871Z
 startTime: Thu May 06 2021 22:03:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
