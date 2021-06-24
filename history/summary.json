@@ -6,8 +6,8 @@
     "slug": "dgssi",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 1938,
@@ -16,7 +16,6 @@
     "timeMonth": 1975,
     "timeYear": 1938,
     "dailyMinutesDown": {
-      "2021-06-24": 2,
       "2021-06-11": 18
     }
   },
@@ -37,7 +36,7 @@
     "timeMonth": 4959,
     "timeYear": 4653,
     "dailyMinutesDown": {
-      "2021-06-24": 809,
+      "2021-06-24": 811,
       "2021-06-23": 1634,
       "2021-06-22": 1402,
       "2021-06-21": 1416,
@@ -123,7 +122,7 @@
     "timeMonth": 1831,
     "timeYear": 1841,
     "dailyMinutesDown": {
-      "2021-06-24": 810,
+      "2021-06-24": 812,
       "2021-06-23": 1440,
       "2021-06-22": 1440,
       "2021-06-21": 1440,
@@ -161,7 +160,7 @@
     "timeMonth": 1697,
     "timeYear": 1700,
     "dailyMinutesDown": {
-      "2021-06-24": 810,
+      "2021-06-24": 812,
       "2021-06-23": 1440,
       "2021-06-22": 1440,
       "2021-06-21": 1440,
@@ -239,7 +238,7 @@
     "status": "up",
     "uptime": "85.49%",
     "uptimeDay": "82.38%",
-    "uptimeWeek": "69.12%",
+    "uptimeWeek": "69.14%",
     "uptimeMonth": "76.80%",
     "uptimeYear": "85.49%",
     "time": 2291,
