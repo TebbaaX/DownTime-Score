@@ -1,7 +1,7 @@
 url: http://www.douane.gov.ma
-status: down
-code: 503
-responseTime: 1060
-lastUpdated: 2021-07-26T01:01:32.953Z
+status: up
+code: 200
+responseTime: 2738
+lastUpdated: 2021-07-26T02:02:08.225Z
 startTime: Thu May 06 2021 21:09:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
