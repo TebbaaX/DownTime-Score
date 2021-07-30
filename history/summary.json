@@ -25,19 +25,19 @@
     "url": "http://covid19.interieur.gov.ma/Operation_ATTADAMON.aspx",
     "icon": "https://favicons.githubusercontent.com/covid19.interieur.gov.ma",
     "slug": "covid-portal",
-    "status": "up",
-    "uptime": "52.09%",
-    "uptimeDay": "3.19%",
-    "uptimeWeek": "22.03%",
-    "uptimeMonth": "20.67%",
-    "uptimeYear": "52.09%",
+    "status": "down",
+    "uptime": "52.32%",
+    "uptimeDay": "3.17%",
+    "uptimeWeek": "22.02%",
+    "uptimeMonth": "20.70%",
+    "uptimeYear": "52.32%",
     "time": 4794,
     "timeDay": 2759,
     "timeWeek": 4952,
     "timeMonth": 4816,
     "timeYear": 4794,
     "dailyMinutesDown": {
-      "2021-07-30": 449,
+      "2021-07-30": 450,
       "2021-07-29": 1396,
       "2021-07-28": 1417,
       "2021-07-27": 1072,
@@ -84,7 +84,7 @@
       "2021-06-14": 1391,
       "2021-06-13": 1390,
       "2021-06-12": 1365,
-      "2021-06-11": 721
+      "2021-06-11": 451
     }
   },
   {
@@ -95,12 +95,12 @@
     "status": "up",
     "uptime": "86.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.96%",
+    "uptimeWeek": "88.06%",
     "uptimeMonth": "61.87%",
     "uptimeYear": "86.15%",
     "time": 2056,
     "timeDay": 2131,
-    "timeWeek": 2179,
+    "timeWeek": 2180,
     "timeMonth": 2102,
     "timeYear": 2056,
     "dailyMinutesDown": {
@@ -136,7 +136,7 @@
     "uptimeYear": "79.10%",
     "time": 1793,
     "timeDay": 1635,
-    "timeWeek": 1687,
+    "timeWeek": 1688,
     "timeMonth": 1751,
     "timeYear": 1793,
     "dailyMinutesDown": {
@@ -179,11 +179,11 @@
     "uptimeYear": "44.06%",
     "time": 1777,
     "timeDay": 2135,
-    "timeWeek": 2103,
+    "timeWeek": 2105,
     "timeMonth": 1876,
     "timeYear": 1777,
     "dailyMinutesDown": {
-      "2021-07-30": 451,
+      "2021-07-30": 461,
       "2021-07-29": 1440,
       "2021-07-28": 1440,
       "2021-07-27": 1440,
@@ -249,7 +249,7 @@
     "uptimeYear": "89.31%",
     "time": 1976,
     "timeDay": 2195,
-    "timeWeek": 2205,
+    "timeWeek": 2206,
     "timeMonth": 2159,
     "timeYear": 1976,
     "dailyMinutesDown": {
@@ -307,7 +307,7 @@
     "uptimeYear": "99.89%",
     "time": 1936,
     "timeDay": 1854,
-    "timeWeek": 1992,
+    "timeWeek": 1995,
     "timeMonth": 2013,
     "timeYear": 1936,
     "dailyMinutesDown": {
@@ -328,7 +328,7 @@
     "uptimeYear": "92.13%",
     "time": 1765,
     "timeDay": 1278,
-    "timeWeek": 1414,
+    "timeWeek": 1416,
     "timeMonth": 1367,
     "timeYear": 1765,
     "dailyMinutesDown": {
@@ -373,7 +373,7 @@
     "uptimeYear": "85.79%",
     "time": 2661,
     "timeDay": 2472,
-    "timeWeek": 2784,
+    "timeWeek": 2786,
     "timeMonth": 2761,
     "timeYear": 2661,
     "dailyMinutesDown": {
@@ -408,7 +408,7 @@
     "uptimeYear": "100.00%",
     "time": 187,
     "timeDay": 183,
-    "timeWeek": 189,
+    "timeWeek": 190,
     "timeMonth": 190,
     "timeYear": 187,
     "dailyMinutesDown": {}
@@ -426,7 +426,7 @@
     "uptimeYear": "99.60%",
     "time": 1482,
     "timeDay": 1453,
-    "timeWeek": 1399,
+    "timeWeek": 1401,
     "timeMonth": 1452,
     "timeYear": 1482,
     "dailyMinutesDown": {
