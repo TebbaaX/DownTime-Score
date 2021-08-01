@@ -13,7 +13,7 @@
     "time": 1975,
     "timeDay": 2065,
     "timeWeek": 2017,
-    "timeMonth": 2004,
+    "timeMonth": 2003,
     "timeYear": 1975,
     "dailyMinutesDown": {
       "2021-07-03": 18,
@@ -37,7 +37,7 @@
     "timeMonth": 4781,
     "timeYear": 4773,
     "dailyMinutesDown": {
-      "2021-08-01": 1351,
+      "2021-08-01": 1359,
       "2021-07-31": 1393,
       "2021-07-30": 1395,
       "2021-07-29": 1396,
@@ -183,7 +183,7 @@
     "timeMonth": 1933,
     "timeYear": 1803,
     "dailyMinutesDown": {
-      "2021-08-01": 1357,
+      "2021-08-01": 1365,
       "2021-07-31": 1440,
       "2021-07-30": 1440,
       "2021-07-29": 1440,
@@ -244,11 +244,11 @@
     "icon": "https://favicons.githubusercontent.com/www.douane.gov.ma",
     "slug": "douanes",
     "status": "up",
-    "uptime": "89.15%",
+    "uptime": "89.16%",
     "uptimeDay": "63.01%",
     "uptimeWeek": "90.98%",
     "uptimeMonth": "71.48%",
-    "uptimeYear": "89.15%",
+    "uptimeYear": "89.16%",
     "time": 1983,
     "timeDay": 2274,
     "timeWeek": 2189,
@@ -312,7 +312,7 @@
     "time": 1936,
     "timeDay": 2125,
     "timeWeek": 1922,
-    "timeMonth": 1995,
+    "timeMonth": 1994,
     "timeYear": 1936,
     "dailyMinutesDown": {
       "2021-06-11": 67,
@@ -333,7 +333,7 @@
     "time": 1739,
     "timeDay": 1389,
     "timeWeek": 1245,
-    "timeMonth": 1323,
+    "timeMonth": 1321,
     "timeYear": 1739,
     "dailyMinutesDown": {
       "2021-07-16": 494,
