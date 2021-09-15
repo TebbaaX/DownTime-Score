@@ -26,18 +26,18 @@
     "icon": "https://favicons.githubusercontent.com/covid19.interieur.gov.ma",
     "slug": "covid-portal",
     "status": "up",
-    "uptime": "59.34%",
-    "uptimeDay": "35.62%",
-    "uptimeWeek": "13.69%",
-    "uptimeMonth": "14.73%",
-    "uptimeYear": "59.34%",
+    "uptime": "59.35%",
+    "uptimeDay": "35.45%",
+    "uptimeWeek": "13.77%",
+    "uptimeMonth": "14.75%",
+    "uptimeYear": "59.35%",
     "time": 4706,
     "timeDay": 4329,
     "timeWeek": 3650,
     "timeMonth": 4234,
     "timeYear": 4706,
     "dailyMinutesDown": {
-      "2021-09-15": 550,
+      "2021-09-15": 553,
       "2021-09-14": 600,
       "2021-09-13": 1343,
       "2021-09-12": 1415,
@@ -99,7 +99,7 @@
       "2021-07-14": 1222,
       "2021-07-13": 1440,
       "2021-07-12": 1430,
-      "2021-07-11": 804
+      "2021-07-11": 785
     }
   },
   {
@@ -153,7 +153,7 @@
     "time": 1823,
     "timeDay": 1884,
     "timeWeek": 1783,
-    "timeMonth": 1884,
+    "timeMonth": 1885,
     "timeYear": 1823,
     "dailyMinutesDown": {
       "2021-09-14": 424,
@@ -383,7 +383,7 @@
     "time": 1950,
     "timeDay": 2127,
     "timeWeek": 1918,
-    "timeMonth": 1936,
+    "timeMonth": 1937,
     "timeYear": 1950,
     "dailyMinutesDown": {
       "2021-09-14": 56,
@@ -405,7 +405,7 @@
     "uptimeYear": "94.88%",
     "time": 1555,
     "timeDay": 1420,
-    "timeWeek": 1285,
+    "timeWeek": 1287,
     "timeMonth": 1215,
     "timeYear": 1555,
     "dailyMinutesDown": {
@@ -453,7 +453,7 @@
     "uptimeYear": "90.84%",
     "time": 2808,
     "timeDay": 3321,
-    "timeWeek": 2972,
+    "timeWeek": 2974,
     "timeMonth": 3116,
     "timeYear": 2808,
     "dailyMinutesDown": {
@@ -490,7 +490,7 @@
     "uptimeYear": "100.00%",
     "time": 298,
     "timeDay": 3110,
-    "timeWeek": 2081,
+    "timeWeek": 2086,
     "timeMonth": 590,
     "timeYear": 298,
     "dailyMinutesDown": {}
@@ -504,15 +504,15 @@
     "uptime": "85.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "38.12%",
+    "uptimeMonth": "38.09%",
     "uptimeYear": "85.44%",
     "time": 1483,
     "timeDay": 1390,
-    "timeWeek": 1531,
+    "timeWeek": 1533,
     "timeMonth": 1476,
     "timeYear": 1483,
     "dailyMinutesDown": {
-      "2021-09-15": 889,
+      "2021-09-15": 898,
       "2021-09-14": 1440,
       "2021-09-13": 1440,
       "2021-09-12": 1440,
