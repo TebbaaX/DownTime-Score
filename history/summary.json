@@ -26,11 +26,11 @@
     "icon": "https://favicons.githubusercontent.com/covid19.interieur.gov.ma",
     "slug": "covid-portal",
     "status": "down",
-    "uptime": "96.49%",
-    "uptimeDay": "40.75%",
-    "uptimeWeek": "28.06%",
-    "uptimeMonth": "82.98%",
-    "uptimeYear": "96.49%",
+    "uptime": "96.48%",
+    "uptimeDay": "41.61%",
+    "uptimeWeek": "28.18%",
+    "uptimeMonth": "82.92%",
+    "uptimeYear": "96.48%",
     "time": 4301,
     "timeDay": 3899,
     "timeWeek": 3879,
@@ -44,7 +44,7 @@
       "2021-09-27": 966,
       "2021-09-26": 950,
       "2021-09-25": 1007,
-      "2021-09-24": 863
+      "2021-09-24": 889
     }
   },
   {
@@ -61,7 +61,7 @@
     "time": 2128,
     "timeDay": 1968,
     "timeWeek": 1862,
-    "timeMonth": 2000,
+    "timeMonth": 2001,
     "timeYear": 2128,
     "dailyMinutesDown": {
       "2021-09-27": 181,
@@ -93,7 +93,7 @@
     "status": "up",
     "uptime": "76.92%",
     "uptimeDay": "91.37%",
-    "uptimeWeek": "50.01%",
+    "uptimeWeek": "50.13%",
     "uptimeMonth": "66.05%",
     "uptimeYear": "76.92%",
     "time": 1832,
@@ -249,7 +249,7 @@
     "time": 2032,
     "timeDay": 1911,
     "timeWeek": 1892,
-    "timeMonth": 1911,
+    "timeMonth": 1912,
     "timeYear": 2032,
     "dailyMinutesDown": {
       "2021-10-01": 68,
@@ -386,7 +386,7 @@
     "time": 1550,
     "timeDay": 1449,
     "timeWeek": 1427,
-    "timeMonth": 1364,
+    "timeMonth": 1365,
     "timeYear": 1550,
     "dailyMinutesDown": {
       "2021-09-10": 365,
@@ -476,7 +476,7 @@
     "time": 559,
     "timeDay": 3034,
     "timeWeek": 3259,
-    "timeMonth": 1987,
+    "timeMonth": 1988,
     "timeYear": 559,
     "dailyMinutesDown": {}
   },
@@ -489,7 +489,7 @@
     "uptime": "83.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.71%",
-    "uptimeMonth": "36.73%",
+    "uptimeMonth": "36.76%",
     "uptimeYear": "83.58%",
     "time": 1468,
     "timeDay": 1616,
