@@ -1,7 +1,7 @@
 url: https://www.cnss.ma
-status: up
-code: 200
-responseTime: 1611
-lastUpdated: 2021-10-30T03:17:57.317Z
+status: down
+code: 500
+responseTime: 1110
+lastUpdated: 2021-10-30T04:21:59.228Z
 startTime: Thu May 06 2021 10:49:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
