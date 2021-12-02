@@ -1,7 +1,7 @@
 url: https://www.sante.gov.ma/Pages/Accueil.aspx
-status: down
-code: 401
-responseTime: 401
-lastUpdated: 2021-12-02T08:43:40.710Z
+status: up
+code: 200
+responseTime: 1605
+lastUpdated: 2021-12-02T08:45:51.357Z
 startTime: Thu May 06 2021 23:10:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
