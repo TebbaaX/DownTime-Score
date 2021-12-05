@@ -1,7 +1,7 @@
 url: http://covid19.interieur.gov.ma/Operation_ATTADAMON.aspx
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-12-05T01:07:29.192Z
+status: up
+code: 200
+responseTime: 3108
+lastUpdated: 2021-12-05T02:13:14.108Z
 startTime: Thu May 06 2021 23:09:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
