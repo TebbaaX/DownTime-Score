@@ -1,7 +1,7 @@
 url: https://portail.tax.gov.ma
-status: up
-code: 200
-responseTime: 4001
-lastUpdated: 2021-12-15T01:11:43.652Z
+status: down
+code: 503
+responseTime: 851
+lastUpdated: 2021-12-15T02:10:00.631Z
 startTime: Thu May 06 2021 22:42:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
