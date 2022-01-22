@@ -1,7 +1,7 @@
 url: https://massar.men.gov.ma
-status: up
-code: 200
-responseTime: 1811
-lastUpdated: 2022-01-22T11:28:33.138Z
+status: down
+code: 503
+responseTime: 2238
+lastUpdated: 2022-01-22T12:35:13.089Z
 startTime: Thu May 06 2021 22:03:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
